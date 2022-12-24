@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+main{
+    min-height: calc(100vh - 70px -0px);
+}

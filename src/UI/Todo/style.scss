@@ -1,0 +1,10 @@
+.card{
+    width: 40%;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
